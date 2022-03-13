@@ -1,0 +1,4 @@
+name: EasyScoreboard
+version: 1.0
+main: com.github.salavatjs.easyscoreboard.Main
+api-version: 1.13

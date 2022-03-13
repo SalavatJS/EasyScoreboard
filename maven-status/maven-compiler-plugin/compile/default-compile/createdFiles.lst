@@ -1,0 +1,5 @@
+com\github\salavatjs\easyscoreboard\Main.class
+com\github\salavatjs\easyscoreboard\scoreboards\AutoFilledScoreboard.class
+com\github\salavatjs\easyscoreboard\scoreboards\GeneralScoreboard.class
+com\github\salavatjs\easyscoreboard\scoreboards\SelfFilledScoreboard.class
+com\github\salavatjs\easyscoreboard\teams\MyTeam.class
